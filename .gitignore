@@ -13,6 +13,9 @@ hs_err_pid*
 # ==========================
 .gradle/
 build/
+
+#build files added
+/build/
 !gradle/wrapper/gradle-wrapper.jar
 .gradle-cache/
 **/build/

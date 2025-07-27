@@ -1,6 +1,10 @@
 HELP.md
 .gradle/
 build/
+
+#build files added
+/build/
+
 !gradle/wrapper/gradle-wrapper.jar
 !**/src/main/**/build/
 !**/src/test/**/build/
@@ -8,6 +12,7 @@ build/
 ### STS ###
 .apt_generated
 .classpath
+.factorypath
 .factorypath
 .project
 .settings
